@@ -1,4 +1,3 @@
 [submodule "osxfuse"]
 	path = osxfuse
-	url = git@github.com:aleksandr-skobelev-epam/osxfuse.git
-	branch = master
+	url = ../osxfuse.git
